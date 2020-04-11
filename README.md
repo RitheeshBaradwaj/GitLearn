@@ -5,7 +5,7 @@
     <img src="images/gitlearn.jpg" width="500" height="300">
 
 - ## Important Note
-    1. Before getting started, make sure you have downloaded the application [GitLearn]().
+    1. Before getting started, make sure you have downloaded the application [GitLearn](https://ritheeshbaradwaj.github.io/GitLearn/).
     2. We have provided logs folder where you can track the status.
     3. DO NOT edit or delete any folders or files in the Project. You are only allowed to run the application.
     4. An additional "Practice folder" is provided as a WorkSpace where can you modify or add new files or folders to practice.
