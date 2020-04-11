@@ -1,6 +1,6 @@
 # GitLearn - A Beginners tool to learn Git
 - ## Overview
-    Git is a distributed version control system for tracking changes in source code during software development. This tool will guide you in a proper way from beginner level to gain basic knowledge of Git environment. We have included an automated tool where you can create and push repositories on [GitHub](https://en.wikipedia.org/wiki/GitHub) where you can collaborate with your friends and teammates.
+    Git is a distributed version control system for tracking changes in source code during software development. This tool will guide you in a proper way from beginner level to gain basic knowledge on Git environment. We have included an automated tool where you can create and push repositories on [GitHub](https://en.wikipedia.org/wiki/GitHub) where you can collaborate with your friends and teammates.
 
     <img src="images/gitlearn.jpg" width="500" height="300">
 
