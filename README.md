@@ -6,9 +6,20 @@
 
 - ## Important Note
     1. Before getting started, make sure you have downloaded the application [GitLearn](https://ritheeshbaradwaj.github.io/GitLearn/).
-    2. We have provided logs folder where you can track the status.
-    3. DO NOT edit or delete any folders or files in the Project. You are only allowed to run the application.
-    4. An additional "Practice folder" is provided as a WorkSpace where can you modify or add new files or folders to practice.
+    2. If you don't have Git on your system, you must install [Chocolatey](https://chocolatey.org/docs/installation), software management automation for Windows.
+        - To Install with cmd.exe, Run the following command:
+        ```
+         @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command " [System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+        ```
+        - To install with PowerShell.exe, Run the following command:
+        ```
+        Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+        ``` 
+        For installing Chocolatey watch this [video](https://www.youtube.com/watch?v=KTUO1g_Btfk) if you have any queries.
+
+    3. We have provided logs folder where you can track the status.
+    4. DO NOT edit or delete any folders or files in the Project. You are only allowed to run the application.
+    5. An additional "Practice folder" is provided as a WorkSpace where can you modify or add new files or folders to practice.
 - ## How to use GitLearn !!
      <img src="images/home.jpg" width="500" height="300">
      You can see the HOME tab of GitLearn. Here we have five sections.
