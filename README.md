@@ -5,7 +5,7 @@
     <img src="images/gitlearn.jpg" width="500" height="300">
 
 - ## Important Note
-    1. Before getting started, make sure you have downloaded the application [GitLearn](https://ritheeshbaradwaj.github.io/GitLearn/).
+    1. Before getting started, make sure you have downloaded the application [GitLearn](https://drive.google.com/file/d/1Bmztt9qhCT6vtKvMtloRf2UBx7aNAJJV/view?usp=sharing).
     2. If you don't have Git on your system, you must install [Chocolatey](https://chocolatey.org/docs/installation), software management automation for Windows.
         - To Install with cmd.exe, Run the following command:
         ```
