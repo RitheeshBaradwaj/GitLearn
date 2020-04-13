@@ -38,7 +38,7 @@
 
 - ## Let's Get Started
 
-     GitHub allows your work to get out in front of the public. Moreover, it is one of the largest coding communities around, so using it can provide wide exposure for your project and for you. The more people you have to review your project, the more attention and use it is likely to attract. So after using this tool you will able be to create repositories on GitHub and access them using terminal.
+     GitHub allows your work to get out in front of the public. Moreover, it is one of the largest coding communities around, so using it can provide wide exposure for your project and for you. The more people you have to review your project, the more attention and use it is likely to attract. So after using this tool you will be able to create repositories on GitHub and access them using terminal.
      So why wait? Install the application and let's git you ready!
 
 - # Thankyou :D
