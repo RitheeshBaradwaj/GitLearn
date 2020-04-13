@@ -1,0 +1,20 @@
+ 
+========================= A Small Note Before You Get Started =================================
+
+Hello mate! I am Ritheesh Baradwaj. I made this tool so that one can know the importance of Git 
+
+and learn Git commands. I personally benefited a lot by using Git and GitHub. I hope, this 
+
+application will help you.
+
+I have used many online resources while creating the application and I would like to thank them.
+
+As I'm also in a learning stage, I would like to know your feedback and suggestions as well. 
+
+So please contact me at: bunnyrb4@gmail.com. 
+
+I'll definitely try to improve the  application based on your feedback.
+
+NOTE: DO NOT make any changes in the folder. For more information on how to use the application,
+
+Please visit: https://ritheeshbaradwaj.github.io/GitLearn/

@@ -1,0 +1,4 @@
+=============================== Setup logs started ===============================
+
+04-12-2020 13_27_31 : Git already downloaded - git version 2.9.0.windows.1
+04-13-2020 11_10_18 : Git already downloaded - git version 2.9.0.windows.1
