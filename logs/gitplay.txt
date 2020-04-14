@@ -8,44 +8,44 @@
 2020-04-12 13:31:39 : ============Cloning Repository===========
 2020-04-12 13:31:42 : Path not found!!
 2020-04-12 13:32:04 : ============Cloning Repository===========
-2020-04-12 13:32:10 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice
+2020-04-12 13:32:10 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice
 04-12-2020 13_32_13 : Repository is cloned
 2020-04-12 13:32:13 : Task Finished!
 2020-04-12 13:32:46 : ============Cloning Repository===========
-2020-04-12 13:32:47 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice
+2020-04-12 13:32:47 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice
 04-12-2020 13_32_49 : Repository is cloned
 2020-04-12 13:32:49 : Task Finished!
 2020-04-12 13:33:15 : ============Cloning Repository===========
-2020-04-12 13:33:16 : Path Found -- C:\Users\yb185037
+2020-04-12 13:33:16 : Path Found -- C:\Users\ritheesh
 04-12-2020 13_33_23 : Repository is cloned
 2020-04-12 13:33:23 : Task Finished!
 2020-04-12 13:34:29 : =========Creating new repository============
 2020-04-12 13:34:31 : GitHub User Found
 2020-04-12 13:34:32 : A default description was added to your repo
-2020-04-12 13:34:32 : Path Found -- C:\Users\yb185037\FlaskCSV
+2020-04-12 13:34:32 : Path Found -- C:\Users\ritheesh\FlaskCSV
 04-12-2020 13_35_08 : 1
-04-12-2020 13_35_08 : Initialized empty Git repository in C:/Users/yb185037/FlaskCSV/.git/
-04-12-2020 13_35_09 : added the files from C:\Users\yb185037\FlaskCSV to repository
+04-12-2020 13_35_08 : Initialized empty Git repository in C:/Users/ritheesh/FlaskCSV/.git/
+04-12-2020 13_35_09 : added the files from C:\Users\ritheesh\FlaskCSV to repository
 04-12-2020 13_35_09 : [master (root-commit) f1469fd] initial commit with GitLearn  5 files changed, 76 insertions(+)  create mode 100644 Procfile  create mode 100644 README.md  create mode 100644 app.py  create mode 100644 requirements.txt  create mode 100644 templates/index.html
 04-12-2020 13_35_09 : a remote is added
 04-12-2020 13_35_15 : Pushed files into repo
 2020-04-12 13:35:16 : Repository is created Succesfully!
 2020-04-12 13:35:16 : Task Finished!
 2020-04-12 13:44:05 : ============Cloning Repository===========
-2020-04-12 13:44:07 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn
+2020-04-12 13:44:07 : Path Found -- C:\Users\ritheesh\Projects\GitLearn
 04-12-2020 13_44_12 : Repository is cloned
 2020-04-12 13:44:12 : Task Finished!
 2020-04-12 13:44:47 : ============Cloning Repository===========
-2020-04-12 13:44:53 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice
+2020-04-12 13:44:53 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice
 04-12-2020 13_45_01 : Repository is cloned
 2020-04-12 13:45:01 : Task Finished!
 2020-04-12 13:48:14 : =========Creating new repository============
 2020-04-12 13:48:16 : GitHub User Found
 2020-04-12 13:48:17 : A default description was added to your repo
-2020-04-12 13:48:17 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\FlaskCSV
+2020-04-12 13:48:17 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice\FlaskCSV
 04-12-2020 13_48_40 : 1
-04-12-2020 13_48_41 : Initialized empty Git repository in C:/Users/yb185037/OneDrive - NCR Corporation/Desktop/GitLearn/Practice/FlaskCSV/.git/
-04-12-2020 13_48_41 : added the files from C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\FlaskCSV to repository
+04-12-2020 13_48_41 : Initialized empty Git repository in C:/Users/ritheesh/Projects/GitLearn/Practice/FlaskCSV/.git/
+04-12-2020 13_48_41 : added the files from C:\Users\ritheesh\Projects\GitLearn\Practice\FlaskCSV to repository
 04-12-2020 13_48_41 : [master (root-commit) 1219f5a] initial commit with GitLearn  5 files changed, 76 insertions(+)  create mode 100644 Procfile  create mode 100644 README.md  create mode 100644 app.py  create mode 100644 requirements.txt  create mode 100644 templates/index.html
 04-12-2020 13_48_41 : a remote is added
 04-12-2020 13_48_47 : Pushed files into repo
@@ -54,10 +54,10 @@
 2020-04-12 13:50:12 : =========Creating new repository============
 2020-04-12 13:50:13 : GitHub User Found
 2020-04-12 13:50:15 : A default description was added to your repo
-2020-04-12 13:50:15 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\FlaskCSV
+2020-04-12 13:50:15 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice\FlaskCSV
 04-12-2020 13_50_28 : 1
-04-12-2020 13_50_28 : Initialized empty Git repository in C:/Users/yb185037/OneDrive - NCR Corporation/Desktop/GitLearn/Practice/FlaskCSV/.git/
-04-12-2020 13_50_29 : added the files from C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\FlaskCSV to repository
+04-12-2020 13_50_28 : Initialized empty Git repository in C:/Users/ritheesh/Projects/GitLearn/Practice/FlaskCSV/.git/
+04-12-2020 13_50_29 : added the files from C:\Users\ritheesh\Projects\GitLearn\Practice\FlaskCSV to repository
 04-12-2020 13_50_29 : [master (root-commit) f5bd150] initial commit with GitLearn  5 files changed, 76 insertions(+)  create mode 100644 Procfile  create mode 100644 README.md  create mode 100644 app.py  create mode 100644 requirements.txt  create mode 100644 templates/index.html
 04-12-2020 13_50_29 : a remote is added
 04-12-2020 13_50_39 : Pushed files into repo
@@ -82,20 +82,20 @@
 2020-04-13 11:22:42 : =========Creating new repository============
 2020-04-13 11:22:44 : GitHub User Found
 2020-04-13 11:22:49 : A default description was added to your repo
-2020-04-13 11:22:49 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn
+2020-04-13 11:22:49 : Path Found -- C:\Users\ritheesh\Projects\GitLearn
 04-13-2020 11_22_52 : 1
-04-13-2020 11_22_53 : Initialized empty Git repository in C:/Users/yb185037/OneDrive - NCR Corporation/Desktop/GitLearn/.git/
-04-13-2020 11_23_10 : added the files from C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn to repository
+04-13-2020 11_22_53 : Initialized empty Git repository in C:/Users/ritheesh/Projects/GitLearn/.git/
+04-13-2020 11_23_10 : added the files from C:\Users\ritheesh\Projects\GitLearn to repository
 04-13-2020 11_23_13 : [master (root-commit) 9aee688] initial commit with GitLearn  50 files changed, 2187 insertions(+)  create mode 100644 A Small Note Before You Get Started.txt  create mode 100644 Cheatsheet.pdf  create mode 100644 GitLearn.exe  create mode 100644 GitLearn.py  create mode 100644 GitLearn.zip  create mode 100644 Images/Introduction.png  create mode 100644 Images/basics.PNG  create mode 100644 Images/basics1.png  create mode 100644 Images/basics2.png  create mode 100644 Images/basics3.png  create mode 100644 Images/basics4.png  create mode 100644 Images/basics5.png  create mode 100644 Images/fifthslide.PNG  create mode 100644 Images/firstslide.PNG  create mode 100644 Images/fourthslide.png  create mode 100644 Images/gitaccount.PNG  create mode 100644 Images/github.png  create mode 100644 Images/gitplay.png  create mode 100644 Images/head.png  create mode 100644 Images/header.png  create mode 100644 Images/header_logo1.png  create mode 100644 Images/help.png  create mode 100644 Images/home.gif  create mode 100644 Images/install.PNG  create mode 100644 Images/logo.png  create mode 100644 Images/logo2.png  create mode 100644 Images/root.png  create mode 100644 Images/secondslide.PNG  create mode 100644 Images/setup.png  create mode 100644 Images/sixthslide.PNG  create mode 100644 Images/thirdslide.PNG  create mode 100644 Practice/Exercise/sample1.txt  create mode 100644 Practice/Exercise/sample2.txt  create mode 100644 Practice/Exercise/sample3.txt  create mode 100644 app.py  create mode 100644 logs/description.txt  create mode 100644 logs/gitbash.txt  create mode 100644 logs/githelp.txt  create mode 100644 logs/gitplay.txt  create mode 100644 logs/setup.txt  create mode 100644 logs/status.txt  create mode 100644 scripts/clonerepo.ps1  create mode 100644 scripts/createrepo.ps1  create mode 100644 scripts/description.txt  create mode 100644 scripts/gitbash.ps1  create mode 100644 scripts/gitplay.ps1  create mode 100644 scripts/path.txt  create mode 100644 scripts/setup.ps1  create mode 100644 static/root.png  create mode 100644 templates/index.html
 04-13-2020 11_23_13 : a remote is added
 04-13-2020 11_23_26 : Pushed files into repo
 2020-04-13 11:24:25 : =========Creating new repository============
 2020-04-13 11:24:30 : GitHub User Found
 2020-04-13 11:24:33 : A default description was added to your repo
-2020-04-13 11:24:33 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\Exercise
+2020-04-13 11:24:33 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice\Exercise
 04-13-2020 11_24_54 : 1
-04-13-2020 11_24_54 : Initialized empty Git repository in C:/Users/yb185037/OneDrive - NCR Corporation/Desktop/GitLearn/Practice/Exercise/.git/
-04-13-2020 11_24_54 : added the files from C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\Exercise to repository
+04-13-2020 11_24_54 : Initialized empty Git repository in C:/Users/ritheesh/Projects/Desktop/GitLearn/Practice/Exercise/.git/
+04-13-2020 11_24_54 : added the files from C:\Users\ritheesh\Projects\GitLearn\Practice\Exercise to repository
 04-13-2020 11_24_54 : [master (root-commit) 1c3f69d] initial commit with GitLearn  3 files changed, 5 insertions(+)  create mode 100644 sample1.txt  create mode 100644 sample2.txt  create mode 100644 sample3.txt
 04-13-2020 11_24_55 : a remote is added
 04-13-2020 11_25_14 : Pushed files into repo
