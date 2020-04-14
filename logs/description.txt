@@ -1,1 +1,1 @@
-This repository was made with GitLearn
+This repository is made with GitLearn
