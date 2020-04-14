@@ -51,19 +51,19 @@
 2020-04-12 13:32:04 : Checking if the URL is valid
 2020-04-12 13:32:10 : URL FOUND!
 2020-04-12 13:32:10 : Checking if the given path is valid
-2020-04-12 13:32:10 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice
+2020-04-12 13:32:10 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice
 2020-04-12 13:32:13 : Task Finished!
 2020-04-12 13:32:46 : Getting ready to clone a remote repository
 2020-04-12 13:32:46 : Checking if the URL is valid
 2020-04-12 13:32:47 : URL FOUND!
 2020-04-12 13:32:47 : Checking if the given path is valid
-2020-04-12 13:32:47 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice
+2020-04-12 13:32:47 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice
 2020-04-12 13:32:49 : Task Finished!
 2020-04-12 13:33:15 : Getting ready to clone a remote repository
 2020-04-12 13:33:15 : Checking if the URL is valid
 2020-04-12 13:33:16 : URL FOUND!
 2020-04-12 13:33:16 : Checking if the given path is valid
-2020-04-12 13:33:16 : Path Found -- C:\Users\yb185037
+2020-04-12 13:33:16 : Path Found -- C:\Users\ritheesh
 2020-04-12 13:33:23 : Task Finished!
 2020-04-12 13:33:50 : Getting ready to create a repository
 2020-04-12 13:34:31 : Submitted the details
@@ -72,7 +72,7 @@
 2020-04-12 13:34:31 : Checking if a repository with name GitLearn exists
 2020-04-12 13:34:32 : A default description was added to your repo
 2020-04-12 13:34:32 : Checking if the path is valid
-2020-04-12 13:34:32 : Path Found -- C:\Users\yb185037\FlaskCSV
+2020-04-12 13:34:32 : Path Found -- C:\Users\ritheesh\FlaskCSV
 2020-04-12 13:34:32 : GitHub API fetched to create repo
 2020-04-12 13:35:16 : Repository is created Succesfully!
 2020-04-12 13:35:16 : Task Finished!
@@ -101,13 +101,13 @@
 2020-04-12 13:44:05 : Checking if the URL is valid
 2020-04-12 13:44:07 : URL FOUND!
 2020-04-12 13:44:07 : Checking if the given path is valid
-2020-04-12 13:44:07 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn
+2020-04-12 13:44:07 : Path Found -- C:\Users\ritheesh\Projects\GitLearn
 2020-04-12 13:44:12 : Task Finished!
 2020-04-12 13:44:47 : Getting ready to clone a remote repository
 2020-04-12 13:44:47 : Checking if the URL is valid
 2020-04-12 13:44:53 : URL FOUND!
 2020-04-12 13:44:53 : Checking if the given path is valid
-2020-04-12 13:44:53 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice
+2020-04-12 13:44:53 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice
 2020-04-12 13:45:01 : Task Finished!
 2020-04-12 13:45:46 : Closed Clone Section
 2020-04-12 13:45:49 : Getting ready to create a repository
@@ -117,7 +117,7 @@
 2020-04-12 13:48:16 : Checking if a repository with name flaskwithgitlearn exists
 2020-04-12 13:48:17 : A default description was added to your repo
 2020-04-12 13:48:17 : Checking if the path is valid
-2020-04-12 13:48:17 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\FlaskCSV
+2020-04-12 13:48:17 : Path Found -- C:\Users\ritheesh\Projects\GitLearn\Practice\FlaskCSV
 2020-04-12 13:48:17 : GitHub API fetched to create repo
 2020-04-12 13:48:49 : Repository is created Succesfully!
 2020-04-12 13:48:49 : Task Finished!
@@ -127,7 +127,7 @@
 2020-04-12 13:50:13 : Checking if a repository with name flaskwithgitlearn exists
 2020-04-12 13:50:15 : A default description was added to your repo
 2020-04-12 13:50:15 : Checking if the path is valid
-2020-04-12 13:50:15 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\FlaskCSV
+2020-04-12 13:50:15 : Path Found -- C:\Users\ritheesh\Projects\Desktop\GitLearn\Practice\FlaskCSV
 2020-04-12 13:50:15 : GitHub API fetched to create repo
 2020-04-12 13:50:41 : Repository is created Succesfully!
 2020-04-12 13:50:41 : Task Finished!
@@ -234,7 +234,7 @@
 2020-04-13 11:22:44 : Checking if a repository with name testing exists
 2020-04-13 11:22:49 : A default description was added to your repo
 2020-04-13 11:22:49 : Checking if the path is valid
-2020-04-13 11:22:49 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn
+2020-04-13 11:22:49 : Path Found -- C:\Users\ritheesh\Projects\Desktop\GitLearn
 2020-04-13 11:22:49 : GitHub API fetched to create repo
 2020-04-13 11:23:48 : ************************Started GitLearn***************************
 2020-04-13 11:23:51 : Opened HOME tab
@@ -246,7 +246,7 @@
 2020-04-13 11:24:30 : Checking if a repository with name testing exists
 2020-04-13 11:24:33 : A default description was added to your repo
 2020-04-13 11:24:33 : Checking if the path is valid
-2020-04-13 11:24:33 : Path Found -- C:\Users\yb185037\OneDrive - NCR Corporation\Desktop\GitLearn\Practice\Exercise
+2020-04-13 11:24:33 : Path Found -- C:\Users\ritheesh\Projects\Desktop\GitLearn\Practice\Exercise
 2020-04-13 11:24:33 : GitHub API fetched to create repo
 2020-04-13 11:25:19 : Repository is created Succesfully!
 2020-04-13 11:25:19 : Task Finished!
