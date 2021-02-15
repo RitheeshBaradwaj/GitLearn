@@ -43,6 +43,6 @@
 
 - # Thankyou :D
 
-    If you have any queries you can mail me at : bunnyrb4@gmail.com. Please provide your valuable feedback to improve the application.
+    If you have any queries you can mail me at : ritheeshbaradwaj@gmail.com. Please provide your valuable feedback to improve the application.
 
 
